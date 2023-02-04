@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend web Development
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on web dev projects
-- 📫 How to reach me 
+
 
 <!---
 svnkr18/svnkr18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
